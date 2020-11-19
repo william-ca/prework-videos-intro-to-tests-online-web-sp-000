@@ -9,10 +9,4 @@ describe "conversions" do
   end
 end
 
-describe "conversions" do
-  describe '#ounces_to_grams' do
-    it 'given 1, return 28.3495'
-    grams = ounces_to_grams(1)
-    expect(grams).to eq(28.3495)
-  end
-end
+
